@@ -104,3 +104,7 @@ python model_main_tf2.py --model_dir=models/my_ssd_resnet50_v1_fpn --pipeline_co
 step -20 check for tensorboard 
 step -21 export your model 
 stpe -22 Test using image with your trained model 
+
+My Detection 
+![1000116868](https://github.com/user-attachments/assets/b1c8dd78-b58c-4bce-974b-23edc7d3aa0e)
+![1000116869](https://github.com/user-attachments/assets/188a55b7-cb50-4181-b199-7bed8499cbf0)
